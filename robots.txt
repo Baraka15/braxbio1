@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://baraka15.github.io/sitemap.xml
